@@ -61,5 +61,5 @@ Post: Please reference Challenge.py file in repo
 
 ## Challenge Roadblock
 
-I had an issue the ratings.csv file the data file is simply too large. I am thinking of practical solutions one involving divinding up the CSV into smaller multiple files. I can always just re-merge them with SQL. Perhaps this maybe a solution. 
+I had an issue the ratings.csv file the data file is simply too large. I am thinking of practical solutions one involving divinding up the CSV into smaller multiple files. I can always just re-merge them with SQL. Perhaps this maybe a band-aid solution. 
 
